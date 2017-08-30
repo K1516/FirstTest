@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstTest</string>
+    <string name="hello_txt">Hello World!</string>
+    <string name="hello_land_txt">Hello Land World!</string>
+    <string name="blue_txt">Blue Text</string>
+    <string name="red_txt">Red Text</string>
+</resources>

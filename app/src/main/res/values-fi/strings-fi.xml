@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Eka testi</string>
+    <string name="hello_txt">Moi Maailma!</string>
+    <string name="hello_land_txt">Moi vaakaMaailma!</string>
+    <string name="blue_txt">Sininen Teksti</string>
+    <string name="red_txt">Punanen Teksti</string>
+</resources>
